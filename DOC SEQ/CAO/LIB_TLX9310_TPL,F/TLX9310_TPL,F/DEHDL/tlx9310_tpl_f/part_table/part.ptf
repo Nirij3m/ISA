@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'TLX9310_TPL_F'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Toshiba", "TLX9310(TPL,F" (!) = "", "TLP2355E", "Other", "757-TLX9310TPLF", "https://www.mouser.co.uk/ProductDetail/Toshiba/TLX9310TPLF?qs=YwPsRIUVAOciEL3qRhtbbw%3D%3D", "IC COUPLER; 5-PIN SO6; AECQ; ROH", "https://toshiba.semicon-storage.com/info/docget.jsp?did=55766&prodName=TLX9310", "2.2 mm"
+END_PART
+
+END.

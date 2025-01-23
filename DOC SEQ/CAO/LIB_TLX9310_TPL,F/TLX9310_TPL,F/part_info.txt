@@ -1,0 +1,9 @@
+Manufacturer=Toshiba
+PartNumber=TLX9310(TPL,F
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=5
+Version=2.1
+Released=2019-12-23 10:54:29
+Downloaded=2025-01-17 16:59:56
+3D=Y

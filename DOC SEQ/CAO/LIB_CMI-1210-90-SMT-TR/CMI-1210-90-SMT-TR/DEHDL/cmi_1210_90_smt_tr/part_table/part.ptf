@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CMI_1210_90_SMT_TR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Same Sky", "CMI-1210-90-SMT-TR" (!) = "", "CMI121090SMTTR", "Other", "490-CMI-1210-90SMTTR", "https://www.mouser.co.uk/ProductDetail/CUI-Devices/CMI-1210-90-SMT-TR?qs=P1JMDcb91o7BNpha6IpZxw%3D%3D", "12.8 mm, 5 Vdc, 90 dB, Surface Mount (SMT), Driving Circuit, Magnetic Audio Indicator Buzzer", "https://www.sameskydevices.com/product/resource/supplyframepdf/cmi-1210-90-smt-tr.pdf", "10.3 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Same Sky
+PartNumber=CMI-1210-90-SMT-TR
+PartCategory=Loudspeaker or Buzzer
+PackageCategory=Other
+PinCount=2
+Version=3.5
+Released=2021-05-26 10:38:04
+Downloaded=2025-01-16 22:39:25
+3D=Y

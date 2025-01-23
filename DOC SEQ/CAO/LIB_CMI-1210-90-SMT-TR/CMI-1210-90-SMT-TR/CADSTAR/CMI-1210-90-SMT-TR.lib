@@ -1,0 +1,16 @@
+.CMI-1210-90-SMT-TR :1 ;12.8 mm, 5 Vdc, 90 dB, Surface Mount (SMT), Driving Circuit, Magnetic Audio Indicator Buzzer
+CMI121090SMTTR
+*STM LS
+*NGS
+*PLB 1="+" 2="-"
+*MXP 2
+*DFN CMI-1210-90-SMT-TR
+~!Mouser Part Number (490-CMI-1210-90SMTTR)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/CUI-Devices/CMI-1210-90-SMT-TR?qs=P1JMDcb91o7BNpha6IpZxw%3D%3D)
+~!Manufacturer_Name (Same Sky)
+~!Manufacturer_Part_Number (CMI-1210-90-SMT-TR)
+~!Link Datasheet (https://www.sameskydevices.com/product/resource/supplyframepdf/cmi-1210-90-smt-tr.pdf)
+~!Height (10.3mm)
+~!3D_Model (CMI-1210-90-SMT-TR)
+CMI-1210-90-SMT-TR
+1.1!U 2.1!U 

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLX9310_TPL,F
+D IC COUPLER; 5-PIN SO6; AECQ; ROH
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=55766&prodName=TLX9310
+$ENDCMP
+#
+#End Doc Library

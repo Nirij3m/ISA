@@ -1,0 +1,106 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "CMI-1210-90-SMT-TR"
+   (description "12.8 mm, 5 Vdc, 90 dB, Surface Mount (SMT), Driving Circuit, Magnetic Audio Indicator Buzzer")
+   (family "ANA")
+   (package "CMI121090SMTTR")
+   (attribute "Datasheet Link" "https://www.sameskydevices.com/product/resource/supplyframepdf/cmi-1210-90-smt-tr.pdf")
+   (attribute "Geometry.Height" "10.3mm")
+   (attribute "Mouser Part Number" "490-CMI-1210-90SMTTR")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/CMI-1210-90-SMT-TR?qs=P1JMDcb91o7BNpha6IpZxw%3D%3D")
+   (attribute "Manufacturer_Name" "Same Sky")
+   (attribute "Manufacturer_Part_Number" "CMI-1210-90-SMT-TR")
+   (gate
+    (symbol "CMI-1210-90-SMT-TR")
+    (pin "+" 1 PS)
+    (pin "-" 2 PS)
+   )
+  )
+  (symbol "CMI-1210-90-SMT-TR"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 280 50) (pt 380 150) (pt 380 -250) (pt 280 -150) (pt 200 -150))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 200 50) (pt 200 -150))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 210 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "CMI121090SMTTR"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.4 6.4)
+      (pt 6.4 6.4)
+      (pt 6.4 -6.4)
+      (pt -6.4 -6.4)
+      (pt -6.4 6.4))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -7.4 8.75)
+      (pt 7.4 8.75)
+      (pt 7.4 -8.75)
+      (pt -7.4 -8.75)
+      (pt -7.4 8.75))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.4 6.4)
+      (pt -6.4 6.4)
+      (pt -6.4 -6.4)
+      (pt -2.4 -6.4))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 2.4 -6.4)
+      (pt 6.4 -6.4)
+      (pt 6.4 6.4)
+      (pt 2.4 6.4))))
+   (leg 1 (pt 0.000 -5.250) (padstack 0))
+   (leg 2 (pt 0.000 5.250) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 4.000 5.000 0 0 90.000))
+   )
+   (model "CMI-1210-90-SMT-TR.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

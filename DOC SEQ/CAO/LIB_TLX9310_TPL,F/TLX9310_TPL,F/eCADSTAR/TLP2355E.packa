@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TLX9310_TPL_F"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-10-10-13:11:15)
+    (mountForm default
+        (footprintRef "TLP2355E")
+        (spec "System")
+    )
+)

@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TLP2355E"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TLP2355E")
+        (spec "default")
+    )
+)

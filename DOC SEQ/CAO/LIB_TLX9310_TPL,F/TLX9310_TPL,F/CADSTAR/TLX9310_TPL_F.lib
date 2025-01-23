@@ -1,0 +1,16 @@
+.TLX9310_TPL_F :1 ;IC COUPLER; 5-PIN SO6; AECQ; ROH
+TLP2355E
+*STM IC
+*NGS
+*PLB 1="A" 3="K" 4="GND" 5="VO" 6="VCC"
+*MXP 5
+*DFN TLX9310_TPL_F
+~!Mouser Part Number (757-TLX9310TPLF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Toshiba/TLX9310TPLF?qs=YwPsRIUVAOciEL3qRhtbbw%3D%3D)
+~!Manufacturer_Name (Toshiba)
+~!Manufacturer_Part_Number (TLX9310(TPL,F)
+~!Link Datasheet (https://toshiba.semicon-storage.com/info/docget.jsp?did=55766&prodName=TLX9310)
+~!Height (2.2mm)
+~!3D_Model (TLX9310_TPL,F)
+TLX9310_TPL_F
+1.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

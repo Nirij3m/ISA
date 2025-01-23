@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_13841037"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-05-26-10:38:04)
+    (utime 2024-12-17-09:13:50)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "CMI-1210-90-SMT-TR")
+)
+
+
+(pinAssign "ECS_13841037"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-05-26-10:38:04)
+    (utime 2024-12-17-09:13:50)
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_13841037")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "CMI-1210-90-SMT-TR")
+)
+
+
+(part "CMI-1210-90-SMT-TR"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2021-05-26-10:38:04)
+    (utime 2024-12-17-09:13:50)
+    (packageRef "CMI-1210-90-SMT-TR")
+    (pinAssignRef "ECS_13841037")
+    (interface
+        (port "1" (symbPinId 1) (portName "+") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "-") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LS")
+    (property "description" "12.8 mm, 5 Vdc, 90 dB, Surface Mount (SMT), Driving Circuit, Magnetic Audio Indicator Buzzer")
+    (property "Mouser_Part_Number" "490-CMI-1210-90SMTTR")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/CUI-Devices/CMI-1210-90-SMT-TR?qs=P1JMDcb91o7BNpha6IpZxw%3D%3D")
+    (property "Manufacturer_Name" "Same Sky")
+    (property "Manufacturer_Part_Number" "CMI-1210-90-SMT-TR")
+    (property "Datasheet_Link" "https://www.sameskydevices.com/product/resource/supplyframepdf/cmi-1210-90-smt-tr.pdf")
+    (property "compAreaTopHeight" 10.3)
+)
+
+
