@@ -224,7 +224,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "HomeLab.kicad_pro",
+    "filename": "SEQ ISA.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -382,6 +382,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "db4482f2-9f8e-4861-aa7c-5b25a8de60ae",
+      "Racine"
+    ]
+  ],
   "text_variables": {}
 }
