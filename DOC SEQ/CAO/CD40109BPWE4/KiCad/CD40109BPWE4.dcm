@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD40109BPWE4
+D Translation - Voltage Levels CMOS Quad Lo-to-Hi Vltg Level Shifter
+K
+F https://www.ti.com/lit/ds/symlink/cd40109b.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1618640692719&ref_url=https%253A%252F%252Fwww.mouser.in%252F
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,37 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model CD40109BPWE4
+#/548136/1582353/2.50/16/3/Integrated Circuit
+DEF CD40109BPWE4 IC 0 30 Y Y 1 F N
+F0 "IC" 1350 300 50 H V L CNN
+F1 "CD40109BPWE4" 1350 200 50 H V L CNN
+F2 "SOP65P640X120-16N" 1350 100 50 H I L CNN
+F3 "https://www.ti.com/lit/ds/symlink/cd40109b.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1618640692719&ref_url=https%253A%252F%252Fwww.mouser.in%252F" 1350 0 50 H I L CNN
+F4 "Translation - Voltage Levels CMOS Quad Lo-to-Hi Vltg Level Shifter" 1350 -100 50 H I L CNN "Description"
+F5 "1.2" 1350 -200 50 H I L CNN "Height"
+F6 "595-CD40109BPWE4" 1350 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD40109BPWE4?qs=vmM6vcLFxxFENXGAN0nSpA%3D%3D" 1350 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Texas Instruments" 1350 -500 50 H I L CNN "Manufacturer_Name"
+F9 "CD40109BPWE4" 1350 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VCC 1 0 0 200 R 50 50 0 0 P
+X ENABLE_A 2 0 -100 200 R 50 50 0 0 P
+X A 3 0 -200 200 R 50 50 0 0 P
+X E 4 0 -300 200 R 50 50 0 0 P
+X F 5 0 -400 200 R 50 50 0 0 P
+X B 6 0 -500 200 R 50 50 0 0 P
+X ENABLE_B 7 0 -600 200 R 50 50 0 0 P
+X VSS 8 0 -700 200 R 50 50 0 0 P
+X VDD 16 1500 0 200 L 50 50 0 0 P
+X ENABLE_D 15 1500 -100 200 L 50 50 0 0 P
+X D 14 1500 -200 200 L 50 50 0 0 P
+X H 13 1500 -300 200 L 50 50 0 0 P
+X NC 12 1500 -400 200 L 50 50 0 0 N
+X G 11 1500 -500 200 L 50 50 0 0 P
+X C 10 1500 -600 200 L 50 50 0 0 P
+X ENABLE_C 9 1500 -700 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1300 100 1300 -800 200 -800 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

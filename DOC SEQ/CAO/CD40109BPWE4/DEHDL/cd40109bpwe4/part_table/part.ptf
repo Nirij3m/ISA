@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CD40109BPWE4'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "CD40109BPWE4" (!) = "", "SOP65P640X120-16N", "Small Outline Packages", "595-CD40109BPWE4", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD40109BPWE4?qs=vmM6vcLFxxFENXGAN0nSpA%3D%3D", "Translation - Voltage Levels CMOS Quad Lo-to-Hi Vltg Level Shifter", "https://www.ti.com/lit/ds/symlink/cd40109b.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1618640692719&ref_url=https%253A%252F%252Fwww.mouser.in%252F", "1.2 mm"
+END_PART
+
+END.

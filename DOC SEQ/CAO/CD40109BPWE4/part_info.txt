@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=CD40109BPWE4
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2021-04-17 11:09:16
+Downloaded=2025-02-04 15:58:50
+3D=Y

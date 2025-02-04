@@ -1,0 +1,16 @@
+.CD40109BPWE4 :1 ;Translation - Voltage Levels CMOS Quad Lo-to-Hi Vltg Level Shifter
+SOP65P640X120-16N
+*STM IC
+*NGS
+*PLB 1="VCC" 2="ENABLE A" 3="A" 4="E" 5="F" 6="B" 7="ENABLE B" 8="VSS" 9="ENABLE C" 10="C" 11="G" 12="NC" 13="H" 14="D" 15="ENABLE D" 16="VDD"
+*MXP 16
+*DFN CD40109BPWE4
+~!Mouser Part Number (595-CD40109BPWE4)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD40109BPWE4?qs=vmM6vcLFxxFENXGAN0nSpA%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CD40109BPWE4)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/cd40109b.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1618640692719&ref_url=https%253A%252F%252Fwww.mouser.in%252F)
+~!Height (1.2mm)
+~!3D_Model (CD40109BPWE4)
+CD40109BPWE4
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 
