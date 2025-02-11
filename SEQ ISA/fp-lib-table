@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KiCad")(type "KiCad")(uri "C:/Users/nirin/Desktop/ISA/DOC SEQ/CAO")(options "")(descr ""))
+  (lib (name "FTSH-107-01-L-DV-K-A")(type "KiCad")(uri "C:/Users/nirin/Desktop/ISA/DOC SEQ/CAO/FTSH-107-01-L-DV-K-A")(options "")(descr ""))
+  (lib (name "Manual Lib")(type "KiCad")(uri "C:/Users/nirin/Desktop/ISA/DOC SEQ/CAO/Manual Lib.pretty")(options "")(descr ""))
+  (lib (name "ISA LIB")(type "KiCad")(uri "C:/Users/nirin/Desktop/ISA/DOC SEQ/CAO/ISA LIB.pretty")(options "")(descr ""))
+)

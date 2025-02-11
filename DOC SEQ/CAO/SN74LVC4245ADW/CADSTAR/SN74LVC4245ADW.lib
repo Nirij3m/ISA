@@ -1,0 +1,16 @@
+.SN74LVC4245ADW :1 ;SN74LVC4245ADW, Bus Transceiver LVC, 8-Bit Non-Inverting 2.7 to 3.6, 4.5 to 5.5V 24-Pin SOIC
+SOIC127P1030X265-24N
+*STM IC
+*NGS
+*PLB 1="(5 V) VCCA" 2="DIR" 3="A1" 4="A2" 5="A3" 6="A4" 7="A5" 8="A6" 9="A7" 10="A8" 11="GND_1" 12="GND_2" 13="GND_3" 14="B8" 15="B7" 16="B6" 17="B5" 18="B4" 19="B3" 20="B2" 21="B1" 22="'OE'" 23="VCCB (3.3 V)_1" 24="VCCB (3.3 V)_2"
+*MXP 24
+*DFN SN74LVC4245ADW
+~!Mouser Part Number (595-SN74LVC4245ADW)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74LVC4245ADW?qs=IF4wzcbwb3pAUkmD9hpWmw%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (SN74LVC4245ADW)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-302/24314.pdf)
+~!Height (2.65mm)
+~!3D_Model (SN74LVC4245ADW)
+SN74LVC4245ADW
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

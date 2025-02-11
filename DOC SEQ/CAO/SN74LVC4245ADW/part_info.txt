@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN74LVC4245ADW
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=24
+Version=6.1
+Released=2015-04-16 09:48:08
+Downloaded=2025-02-09 16:18:59
+3D=Y

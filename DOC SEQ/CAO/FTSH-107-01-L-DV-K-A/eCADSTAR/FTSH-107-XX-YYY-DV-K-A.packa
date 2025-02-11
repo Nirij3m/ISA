@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "FTSH-107-01-L-DV-K-A"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-06-26-23:52:34)
+    (mountForm default
+        (footprintRef "FTSH-107-XX-YYY-DV-K-A")
+        (spec "System")
+    )
+)

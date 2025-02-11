@@ -1,0 +1,233 @@
+(footprint "CMI121090SMTTR"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "CMI-1210-90-SMT-TR-1")
+	(tags "Loudspeaker or Buzzer")
+	(property "Reference" "LS**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "1fc6691c-45cf-4c69-b8f5-4690aea50ce9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "CMI121090SMTTR"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "68531e23-f660-451d-ad6d-8059026fe171")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce778eaa-f368-4774-b14f-1ca3df0d6a1c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "77f8ba94-7e57-4f9c-9b6f-ea2cf3998a8c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b733cf5a-24a3-4159-860e-d2ba6ec1274a")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -6.4 -6.4)
+		(end -6.4 6.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d0c21c85-0e94-481d-a563-60ed34c31c9b")
+	)
+	(fp_line
+		(start -6.4 6.4)
+		(end -2.4 6.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "964ab528-2fee-4aa2-85ec-4c9e1cdf3f9b")
+	)
+	(fp_line
+		(start -2.4 -6.4)
+		(end -6.4 -6.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "afe22019-8dcd-4aa6-8594-b98d69577714")
+	)
+	(fp_line
+		(start 2.4 6.4)
+		(end 6.4 6.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "17a0a61a-1047-431f-aeef-e83d83d3d285")
+	)
+	(fp_line
+		(start 6.4 -6.4)
+		(end 2.4 -6.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "e70b9443-3f90-42c8-8fa7-84d8faed3ba4")
+	)
+	(fp_line
+		(start 6.4 6.4)
+		(end 6.4 -6.4)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "b382fe7e-bd5f-41d7-9d63-b38a4d40fb9a")
+	)
+	(fp_line
+		(start -7.4 -8.75)
+		(end 7.4 -8.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7aa41be2-a27c-4b85-b0a9-bf407f238da0")
+	)
+	(fp_line
+		(start -7.4 8.75)
+		(end -7.4 -8.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "c4354f69-474e-4f05-b7eb-13685fa0a3aa")
+	)
+	(fp_line
+		(start -6.4 -6.4)
+		(end 6.4 -6.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "7c5ed5d4-59c1-431d-a430-39949c317b3e")
+	)
+	(fp_line
+		(start -6.4 6.4)
+		(end -6.4 -6.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1c48fd3b-83b6-466a-ba14-1bb101f0ce01")
+	)
+	(fp_line
+		(start 6.4 -6.4)
+		(end 6.4 6.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "76a74ed3-d4d4-4e7e-a172-44451f5312d9")
+	)
+	(fp_line
+		(start 6.4 6.4)
+		(end -6.4 6.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "9eac1d89-0535-4de4-adca-562b3bca1528")
+	)
+	(fp_line
+		(start 7.4 -8.75)
+		(end 7.4 8.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "24530669-2d21-4ea6-9db9-0d6fa7c101df")
+	)
+	(fp_line
+		(start 7.4 8.75)
+		(end -7.4 8.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "8063348c-83ec-444c-a8f0-30d9566a9d79")
+	)
+	(pad "1" smd rect
+		(at 0 5.25)
+		(size 4 5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "eb2f3dbb-20b6-4d53-b838-6450aa02ae0f")
+	)
+	(pad "2" smd rect
+		(at 0 -5.25)
+		(size 4 5)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "02e1186f-14b6-40e7-8c23-2e1f882ab9cf")
+	)
+	(model "C:/Users/nirin/Desktop/ISA/DOC SEQ/CAO/LIB_CMI-1210-90-SMT-TR/CMI-1210-90-SMT-TR/3D/CMI-1210-90-SMT-TR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

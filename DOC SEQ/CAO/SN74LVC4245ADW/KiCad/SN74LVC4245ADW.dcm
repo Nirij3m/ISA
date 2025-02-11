@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SN74LVC4245ADW
+D SN74LVC4245ADW, Bus Transceiver LVC, 8-Bit Non-Inverting 2.7 to 3.6, 4.5 to 5.5V 24-Pin SOIC
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-302/24314.pdf
+$ENDCMP
+#
+#End Doc Library
