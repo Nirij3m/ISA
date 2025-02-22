@@ -1,0 +1,12 @@
+import pcbnew
+
+board = pcbnew.GetBoard()
+new_via_size = pcbnew.FromMM(0.3)  # Diamètre extérieur
+new_via_drill = pcbnew.FromMM(0.25)  # Diamètre du trou
+
+for via in board.GetTracks():
+    if isinstance(via, pcbnew.VIA):
+        via.SetDrill(new_via_drill)
+        via.SetWidth(new_via_size)
+
+pcbnew.Refresh()
