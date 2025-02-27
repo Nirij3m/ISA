@@ -40,17 +40,15 @@
       "footprint_references",
       "tracks",
       "drc_errors",
-      "drawing_sheet",
-      "bitmaps",
       "pads",
       "zones",
       "drc_warnings",
+      "drc_exclusions",
       "locked_item_shadows",
-      "conflict_shadows",
       "shapes"
     ],
-    "visible_layers": "00000000_00000000_0ffcfff7_ffffffff",
-    "zone_display_mode": 0
+    "visible_layers": "00000000_00000000_0ffffff7_ffffffff",
+    "zone_display_mode": 1
   },
   "git": {
     "repo_password": "",
